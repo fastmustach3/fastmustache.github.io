@@ -3,6 +3,7 @@ const audio = {
     src: './audio/map.wav',
     html5: true,
     audioElement.loop = true
+    loop: true
     volume: 0.1
   }),
   initBattle: new Howl({
