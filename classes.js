@@ -1,3 +1,7 @@
+html {}
+body {
+    height: 95vh;
+}
 class Sprite {
   constructor({
     position,
